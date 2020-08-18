@@ -1,0 +1,76 @@
+Till Now,
+1.Manual Testing
+	SDLC Models:
+	------------
+	1.Sequencial Model
+		>Waterfall 
+		>V-model
+	2.Iterative & Incremental Model
+		>Agile Model
+			1.It delivers working software in short period
+			2.TransParency is there
+				>Daily Stand up Meeting
+					1.What you did yesterday
+					2.Any Challenges
+					3.What is Plan for Day
+				>Scrum Board (EveryOne is Able to see EveryOne's Task Status)
+				>In EveryPhase Customer or Customer Representativ is involve.
+
+
+
+
+Normal Selenium:
+----------------
+PageObjectMOdel
+utils
+Base
+TestRunner
+PropertyReader   >  Technical Person is Able to UnderStand This 
+
+	For Non-Technical Person can not understand
+
+
+
+
+Test Cases >  TestNG Classes(TestNG Test )     > TDD
+
+Cucumber is BDD: More focus on Customer P.O.V (Customer Centric).
+
+		Application Behavior from Customer Point of View
+
+
+Advantage:
+	1.AnyOne Can understand your automation Testing
+	2.More Focus on End User
+	3.Plain English Language is Used.
+
+
+Gherkin Style is Used:
+---------------------
+
+Given: 
+	Pre-Condition (Must be True)
+When:
+	User Performs some steps
+Then:
+	Post-COndition(After Performing Steps What should be True )
+	Assertions
+
+	
+---------------------------------------------------------------------
+
+
+
+How to Pass Parameter to your script:
+------------------------------------
+	1.Directly in your gherkin statement
+
+
+
+
+
+	
+
+
+	
+	
